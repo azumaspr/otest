@@ -45,7 +45,7 @@ for ii=1:3
     for iii=1:3
         ys(ii,iii)=y(ii,iii);
     end
-    y4(ii,1)=y(ii,1);
+    y4(ii,1)=y(ii,4);
 end
 ys
 y4
